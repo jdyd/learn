@@ -1,4 +1,4 @@
-package com.example;
+package com.example.base;
 
 import org.apache.http.HttpHost;
 import org.elasticsearch.action.admin.indices.delete.DeleteIndexRequest;

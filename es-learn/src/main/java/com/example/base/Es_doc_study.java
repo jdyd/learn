@@ -1,6 +1,6 @@
-package com.example;
+package com.example.base;
 
-import com.example.model.User;
+import com.example.base.model.User;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.http.HttpHost;
