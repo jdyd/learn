@@ -19,6 +19,7 @@
     <modules>
         <module>es-learn</module>
         <module>java-learn</module>
+        <module>fsm-learn</module>
     </modules>
 
     <properties>
